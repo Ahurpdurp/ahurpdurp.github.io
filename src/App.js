@@ -49,9 +49,9 @@ function App() {
             <img src={Selfie} alt="Selfie" className="selfie" />
             <b>Paul Wu</b>
           </h1>
-          <h2>Software Engineer (Currently Open to New Opportunities)</h2>
+          <h2>Senior Software Engineer at J.P. Morgan Chase</h2>
           <p style={{ fontSize: "1.25em", fontWeight: 300 }}>
-            Working remotely from Houston, Texas
+            Working from Houston, Texas
           </p>
           <p
             style={{
@@ -61,11 +61,10 @@ function App() {
               paddingBottom: 30,
             }}
           >
-            Hi! 👋 I've been a software engineer since I graduated from Rice
-            University in 2017. Since then, I've had the privilege of working at
-            multiple companies and I've learned a bunch of stuff along the way.
-            I'll get straight to the point and list my skills and experience
-            below 🙂.
+            Hi! 👋 I've been a full stack software engineer since I graduated
+            from Rice University in 2017. Since then, I've had the privilege of
+            working at multiple companies and I've learned a bunch of stuff
+            along the way.
           </p>
         </div>
         <h2>My skills:</h2>
@@ -87,8 +86,7 @@ function App() {
             <a href={resume} download target="_blank" rel="noreferrer">
               here!
             </a>{" "}
-            My number and email are listed on my resume, so I won't post it on
-            this page to prevent spammers. Here's my{" "}
+            Here's my{" "}
             <a
               href="https://www.linkedin.com/in/paul-wu/"
               rel="noreferrer"
@@ -102,10 +100,10 @@ function App() {
         <h2>What do I like to do in my freetime? </h2>
         <ul>
           <li>Code (promise I'm not just saying that)</li>
-          <li>Write electronic/videogame music (PM for soundcloud)</li>
+          <li>Write music</li>
           <li>
-            Play videgames, mainly League of Legends and any Mario and/or Legend
-            of Zelda game
+            Play videogames, mainly League of Legends, Valorant and any Mario
+            and/or Legend of Zelda game
           </li>
           <li>
             Run my side business @{" "}
@@ -126,7 +124,7 @@ function App() {
             Everywhere All At Once, Ocean's 11, Inception
           </li>
           <li>
-            <b>Favorite food:</b> Sushi
+            <b>Favorite food:</b> Crawfish
           </li>
           <li>
             <b>Favorite videogame:</b> The Legend of Zelda: The Wind Waker
@@ -135,11 +133,7 @@ function App() {
             <b>Favorite book:</b> The Hitchhiker's Guide to the Galaxy
           </li>
           <li>
-            <b>Favorite TV show:</b> Community, The Office, and Always Sunny
-          </li>
-          <li>
-            <b>Favorite programming language:</b> C# probably. Since it's the
-            one I started with
+            <b>Favorite TV shows:</b> Community, The Office, and Always Sunny
           </li>
         </ul>
         <h2>Bonus pictures of Sophia!</h2>
