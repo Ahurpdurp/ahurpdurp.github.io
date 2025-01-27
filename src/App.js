@@ -61,7 +61,7 @@ function App() {
               paddingBottom: 30,
             }}
           >
-            Hi! 👋 I've been a full stack software engineer since I graduated
+            Hello! 👋 I've been a full stack software engineer since I graduated
             from Rice University in 2017. Since then, I've had the privilege of
             working at multiple companies and I've learned a bunch of stuff
             along the way.
