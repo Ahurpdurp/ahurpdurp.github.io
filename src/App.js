@@ -95,7 +95,10 @@ function App() {
         </div>
         <h2>What do I like to do in my freetime? </h2>
         <ul>
-          <li>Code (promise I'm not just saying that)</li>
+          <li>
+            Code (current project is a React based card game - can demo upon
+            request)
+          </li>
           <li>Write music</li>
           <li>
             Play videogames, mainly League of Legends, Valorant and any Mario
