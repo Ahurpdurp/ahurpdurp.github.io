@@ -14,8 +14,8 @@ import ImageList from "@mui/material/ImageList";
 import ImageListItem from "@mui/material/ImageListItem";
 
 const skills = [
-  "Node.js",
   "React",
+  "Node.js",
   "Javascript",
   "Vue",
   "HTML, CSS, jQuery",
@@ -56,10 +56,11 @@ function App() {
               paddingBottom: 30,
             }}
           >
-            Hello! 👋 I've been a full stack software engineer since I graduated
-            from Rice University in 2017. Since then, I've had the privilege of
-            working at multiple companies and I've learned a bunch of stuff
-            along the way.
+            Hello! 👋 I've been a software engineer since I graduated from Rice
+            University in 2017. Since then, I've worked at multiple companies
+            and learned a bunch along the way. I'm currently focused on the
+            frontend at my current role doing a lot of React stuff, but I've
+            worked full stack with various technologies in previous roles.
           </p>
         </div>
         <h2>My skills:</h2>
